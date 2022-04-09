@@ -13,7 +13,7 @@
     ?>
 
     <!--Formulario para calcular los valores-->
-    <form action="operadores-arimeticos.php" method="post">
+    <form action="8operadores-arimeticos.php" method="post">
     Valor A:
     <input type="text" name="valorA" placeholder="Ingresa numeros" id=""required>
     <br/>
