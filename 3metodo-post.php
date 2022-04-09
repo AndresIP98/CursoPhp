@@ -19,7 +19,7 @@ if($_POST){
 <body>
 , soy el esqueleto de un documento html, en un archivo php
 <!--Formulario para enviar la informacion, con el metodo post y un submit-->
-    <form action="metodo-post.php" method="post">
+    <form action="3metodo-post.php" method="post">
     Nombre:
     <input type="text" name="txtNombre" id="">
     <br/>
