@@ -9,7 +9,7 @@
 </head>
 <!--Creamos el formulario-->
 <body>
-<form action="string&concatenacion.php" method="post">
+<form action="5string&concatenacion.php" method="post">
     Nombre:
     <input type="text" name="txtNombre" id="">
     <br/>
